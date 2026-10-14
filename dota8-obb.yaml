@@ -1,0 +1,8 @@
+path: D:\datasets\datasets2 # dataset
+train: images/train
+val: images/val
+obb: True
+
+names:
+  0: cable
+

@@ -1,5 +1,5 @@
 # PLI-YOLO
-code is coming soon!
+The code is being updated!
 
 # Installation
 

@@ -26,6 +26,9 @@ pip install -e .
 # Install additional dependencies
 pip install timm==1.0.7 thop efficientnet_pytorch==0.7.1 einops grad-cam==1.5.4 dill==0.3.8 albumentations==1.4.11 pytorch_wavelets==1.3.0 tidecv PyWavelets opencv-python prettytable
 pip install torch-dct==0.1.6
+pip install -U openmim
+mim install mmengine==0.10.4
+mim install mmcv==2.2.0
 ```
 
 ## Get Started

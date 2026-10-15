@@ -47,12 +47,6 @@ dataset/
     └── val/
 ```
 
-Each annotation line should follow the YOLO-OBB format:
-
-```text
-class_id x1 y1 x2 y2 x3 y3 x4 y4
-```
-
 Update `dota8-obb.yaml` with your dataset paths and class names:
 
 ```yaml
